@@ -1,6 +1,6 @@
 # vue-ckeditor
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/17c6be31-28d0-450e-bd2e-2b8eb0e4d236/deploy-status)](https://vue-ckeditor.netlify.com/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9a08882c-638a-4fef-9bef-6748428d20aa/deploy-status)](https://vue-ckeditor.netlify.com/)
 
 
 ## Project setup
