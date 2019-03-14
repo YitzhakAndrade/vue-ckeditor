@@ -17,9 +17,3 @@ npm run serve
 ```
 npm run build
 ```
-
-## Refs
-
-- https://pineco.de/wrapping-quill-editor-in-a-vue-component/
-- https://quilljs.com/docs/
-
